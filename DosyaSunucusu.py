@@ -131,10 +131,6 @@ def http_server():#Download Server
     check_directory_ex()#check directory exist or not if it wont exist create
     os.chdir(PAYLASIMLAR_DIR)
     socketserver.TCPServer((IP, 81), handler).serve_forever()
-if nya == rlko:
-   nya==rlko
-else:
-   sys.exit()
 if __name__=='__main__':
     chkAdmin() #Admin olarak çalışıp çalışmadığını kontrol et!
     fw_remove()#Güvenlik duvarına ayrıcalık kaldır.

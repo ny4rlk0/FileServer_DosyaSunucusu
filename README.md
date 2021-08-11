@@ -3,20 +3,20 @@ Yerel ağ için basit dosya sunucusu. Yükleme ve indirme. Dosyaların paylaşı
 
 <p align="center">
   <a href="https://github.com/ny4rlk0/FileServer_DosyaSunucusu/">
-    <img src="1.png">
+    <img src="1.PNG">
   </a>
     <a href="https://github.com/ny4rlk0/FileServer_DosyaSunucusu/">
-    <img src="2.png">
+    <img src="2.PNG">
   </a>
     <a href="https://github.com/ny4rlk0/FileServer_DosyaSunucusu/">
-    <img src="3.png">
+    <img src="3.PNG">
   </a>
     <a href="https://github.com/ny4rlk0/FileServer_DosyaSunucusu/">
-    <img src="4.png">
+    <img src="4.PNG">
   </a>
     <a href="https://github.com/ny4rlk0/FileServer_DosyaSunucusu/">
-    <img src="5.png">
+    <img src="5.PNG">
   </a>
     <a href="https://github.com/ny4rlk0/FileServer_DosyaSunucusu/">
-    <img src="6.png">
+    <img src="6.PNG">
   </a>

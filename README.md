@@ -28,7 +28,7 @@ Yerel ağ için basit dosya sunucusu. Yükleme ve indirme. Dosyaların paylaşı
     <a href="https://github.com/ny4rlk0/FileServer_DosyaSunucusu/">
     <img src="6.PNG">
   </a>
-* Screen Shots:
+   * Screen Shots:
     <a href="https://github.com/ny4rlk0/FileServer_DosyaSunucusu/">
     <img src="i1.PNG">
   </a>
